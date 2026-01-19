@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋, I’m Horacio Soldman, a Senior Data Engineer & Chevening Alumnus.
+I’m __Horacio Soldman__, a Senior Data Engineer & Chevening Alumnus.
 
 I specialize in building scalable, cost-efficient data architectures that bridge the gap between raw data and business intelligence. With a background in Software Engineering and an MSc in Data Science (UK), I focus on optimizing pipelines to drive high-ROI decision-making.
 
@@ -27,4 +27,4 @@ I specialize in building scalable, cost-efficient data architectures that bridge
 
 🌍 Remote Ready: Based in Madagascar (UTC+3), operating with full overlap for UK/EU/US-East teams.
 
-📫 How to reach me: hsoldman@gmail.com or +44 7512975473 (WhatsApp)
+📫 How to reach me: feel free to email me at hsoldman@gmail.com or connect via WhatsApp +44 7512975473.

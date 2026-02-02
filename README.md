@@ -28,7 +28,7 @@ I specialise in building scalable, cost-efficient data architectures that bridge
 
 🌍 **Remote Ready**: Based in Madagascar (UTC+3), operating with full overlap for UK/EU/US-East teams.
 
-📫 **How to reach me**: feel free to email me at hsoldman@gmail.com or connect via WhatsApp +44 7512975473.
+📫 **How to reach me**: email at hsoldman@gmail.com or connect via WhatsApp +44 7512975473.
 
 
 
